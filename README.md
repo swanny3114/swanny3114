@@ -1,4 +1,4 @@
 # swanny3114
- 
-Changing file
-New commit
+Lillian Swan
+Majoring in Data Science and Mathematics
+Graduating in May of 2027
